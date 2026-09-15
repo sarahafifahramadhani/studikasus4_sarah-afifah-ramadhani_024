@@ -6,7 +6,7 @@ NIM: 2609116024 (Genap)
 
 Kelas: A
 
-#PENJELASAN SINGKAT
+# PENJELASAN SINGKAT
 
 Program ini berisi data produk di toko yang disimpan dalam dictionary {}, yang dimana setiap informasinya disimpan dalam key dan value. Dalam program ini user dapat melakukan 4 hal, yaitu:
 
