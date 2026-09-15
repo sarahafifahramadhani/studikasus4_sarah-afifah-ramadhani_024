@@ -28,7 +28,7 @@ dalam program ini saya menggunakan:
 
 4. [].pop digunakan untuk menghapus kategori produk
 
-#Output
+# Output
 
 1. jika user memilih menu 1
 
@@ -54,4 +54,14 @@ user bisa menginput harga baru, lalu jika user kembali memilih menu 1, data akan
 
 4. jika user memilih menu 4
 
-<img width="319" height="212" alt="Screenshot 2026-09-15 214549" src="https://github.com/user-attachments/assets/6b4e5dfb-7f57-4528-88b0-72e0e9ff84ca" />
+<img width="134" height="109" alt="Screenshot 2026-09-15 214638" src="https://github.com/user-attachments/assets/7dbf573b-7248-44e6-ac75-edc9d9f77db6" />
+
+data akan otomatis menghapus key "kategori" seperti yang diintsruksikan. Jika user memilih menu 1, data akan diperbarui.
+
+<img width="336" height="195" alt="Screenshot 2026-09-15 214401" src="https://github.com/user-attachments/assets/12333c3f-9891-4d19-b604-add99b4caa7d" />
+
+5. jika user memilih menu 5
+
+<img width="327" height="155" alt="Screenshot 2026-09-15 214856" src="https://github.com/user-attachments/assets/64a790a3-6aba-4833-b317-a969ff7d04ea" />
+
+program akan berhenti karna ada "break" setelah  memilih menu 5.
